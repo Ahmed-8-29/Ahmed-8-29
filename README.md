@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Martinator/Martinator/master/Gifs/waving_hand.gif" width="30px">&nbsp; I'm `Abdelsalam`
+# 👋 I'm `Abdelsalam`
 
 <h3>✨ Full Name: Ahmed Mohamed Ahmed Abdelsalam</h3>
 
